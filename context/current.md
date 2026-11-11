@@ -29,3 +29,10 @@
 ### 2026-11-10 20:01 - Repositorio Remoto en GitHub
 - Repositorio remoto creado y enlazado: https://github.com/krammstein/transportacionesvh
 - Rama principal main subida con éxito.
+
+### 2026-11-10 20:06 - Despliegue en Servidor de Producción (HostGator)
+- Subdominio creado en cPanel vía SSH: 	rans.quantikapps.com.mx
+- DocumentRoot: /home1/luisdirc/trans.quantikapps.com.mx/
+- Despliegue completado: index.html + ssets/ (css, js, img) con permisos 755/644.
+- Verificación en vivo: HTTP 200 y HTTPS 200 OK.
+- URL pública: https://trans.quantikapps.com.mx
