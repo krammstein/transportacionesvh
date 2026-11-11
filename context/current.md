@@ -25,3 +25,7 @@
    - `context/current.md`: Bitácora del proyecto.
 4. **Próxima Tarea:**
    - Implementación del prototipo web completo en `protos/index.html` con CSS y JS en `protos/assets/`.
+
+### 2026-11-10 20:01 - Repositorio Remoto en GitHub
+- Repositorio remoto creado y enlazado: https://github.com/krammstein/transportacionesvh
+- Rama principal main subida con �xito.
