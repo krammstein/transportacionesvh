@@ -1,0 +1,11 @@
+# Carpeta de recursos crudos / descargas locales
+/000/*
+
+# Archivos del sistema operativo y editores
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.log
